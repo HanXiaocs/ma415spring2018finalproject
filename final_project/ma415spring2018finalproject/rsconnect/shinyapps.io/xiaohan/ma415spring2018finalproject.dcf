@@ -1,0 +1,12 @@
+name: ma415spring2018finalproject
+title: ma415spring2018finalproject
+username:
+account: xiaohan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 338482
+bundleId: 1359848
+url: https://xiaohan.shinyapps.io/ma415spring2018finalproject/
+when: 1525689997.64553
+asMultiple: FALSE
+asStatic: FALSE
